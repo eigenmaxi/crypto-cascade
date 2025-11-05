@@ -1,0 +1,15 @@
+{
+  "accountAssociation": {
+    "header": "your-signature-here",
+    "payload": "your-payload-here",
+    "signature": "your-signature-here"
+  },
+  "frame": {
+    "version": "next",
+    "name": "Crypto Cascade",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "homeUrl": "https://your-domain.com",
+    "splashImageUrl": "https://your-domain.com/splash.png",
+    "splashBackgroundColor": "#0f172a"
+  }
+}
