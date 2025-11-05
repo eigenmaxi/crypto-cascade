@@ -48,7 +48,7 @@ const TOKEN_SYMBOLS: Record<TokenType, string> = {
   WETH: 'W',
 }
 
-export default function CryptoCascade(): JSX.Element {
+export default function CryptoCascade(): React.ReactElement {
   const [cascadeState, setCascadeState] = useState<CascadeState>({
     grid: [],
     score: 0,
